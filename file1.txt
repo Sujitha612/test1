@@ -1,1 +1,2 @@
-This is my first text file in test1 
+This is my first text file in test1
+Modifying file1 content
