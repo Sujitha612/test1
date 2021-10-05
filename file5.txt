@@ -1,1 +1,0 @@
-Text file is created to perform certain reverting operations
